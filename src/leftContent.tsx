@@ -33,7 +33,7 @@ function LeftContent() {
         </p>
         <div className="flex space-x-4">
           <img src={logo} alt="Placeholder" className="w-20 h-20 rounded-full" />
-          <p className="text-sm font-bold">Cancel the</p>
+          <p className="text-sm font-bold">Cancel the usdt transaction you previously created</p>
         </div>
         <button className="bg-white text-blue-600 px-4 py-2 rounded-md hover:bg-blue-100 transition">
           Cancel Transaction
